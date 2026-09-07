@@ -33,7 +33,6 @@
 - [Usage Guide](#-usage-guide)
 - [Roadmap & Enhancements](#-roadmap--enhancements)
 - [Contributing](#-contributing)
-- [License & Author](#-license--author)
 
 ---
 
